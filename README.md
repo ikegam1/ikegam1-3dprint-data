@@ -11,6 +11,7 @@
 | Drink holder | [livestream-tray/drink-holder/v1.1-inward-tilt/](livestream-tray/drink-holder/v1.1-inward-tilt/) | Prototype, inward 6.5° tilt, 500 mL bottle intended, **load test not yet passed** |
 | Indoor Kubb | [kubb/70x70x150-closed-light/](kubb/70x70x150-closed-light/) | Closed 70×70×150 mm model with low slicer infill |
 | PETG slippers | [footwear/petg-slippers-27cm/](footwear/petg-slippers-27cm/) | Early prototype, requires compatible hardware; PETG can be hard and slippery |
+| Mölkky trophy (おおみそCUP) | [molkky_trophy/](molkky_trophy/) | Print data for 4 trophies (2026-10-27) plus a 1/3-scale fit test; not yet test-printed |
 
 **Former designs:** [archive/older-unverified-revisions/](archive/older-unverified-revisions/) — retained for comparison only; several are superseded due to fit, stability, or strength problems.
 
