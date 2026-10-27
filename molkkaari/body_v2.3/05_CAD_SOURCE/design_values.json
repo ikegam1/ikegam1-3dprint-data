@@ -1,0 +1,39 @@
+{
+  "version": "2.3",
+  "date": "2026-10-15",
+  "printer": "Flashforge Adventurer 5M",
+  "material": "PETG",
+  "body_bars": 4,
+  "bar_nominal_length_mm": 240.0,
+  "body_cross_section_mm": [
+    18.0,
+    33.0
+  ],
+  "joiner_count": 3,
+  "gap_nominal_mm": 13.333333333333334,
+  "assembled_path_length_nominal_mm": 1000.0,
+  "angles_between_bars_deg": [
+    45,
+    180,
+    45
+  ],
+  "measure_total_length_design_mm": 3500,
+  "measure_segments": 18,
+  "measure_segment_pitch_mm": 194.44444444444446,
+  "measure_folded_max_nominal_mm": 195.94444444444446,
+  "bar1_cavity_length_mm": 207.0,
+  "bar1_cavity_inner_width_mm": 13.6,
+  "bar1_cavity_inner_height_mm": 30.6,
+  "joiner_hole_width_mm": 4.15,
+  "joiner_peg_width_mm": 3.65,
+  "font": "DejaVu Sans Bold",
+  "text": "Mölkky",
+  "text_position": "front vertical face of each bar",
+  "text_method": "0.7 mm recessed",
+  "assumptions": [
+    "Hinge mechanism of reused 3.5m ruler has not been real-world tested",
+    "Final assembled path length of 1000 mm is nominal centerline sum incl. gaps and does not equal horizontal projected width",
+    "Printable joint geometry is new and not compatible with previous v2.2.1 body",
+    "Printed pin fit requires test on target PETG and machine; no printed fit guarantee"
+  ]
+}
