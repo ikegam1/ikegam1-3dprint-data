@@ -1,0 +1,47 @@
+{
+  "version": "v1.1",
+  "compatible_center_step": "01_CENTER_V09_70mm_GRIP_110x114_PHONE_DOCK.step",
+  "tray_front_y_mm": -81.0,
+  "tray_plate_z_mm": [
+    9.0,
+    15.0
+  ],
+  "clip_width_mm": 113.0,
+  "clip_rear_y_mm": -59.0,
+  "plate_contact_length_mm": 22.0,
+  "clip_gap_mm": 6.74,
+  "nominal_plate_clearance_each_mm": 0.37,
+  "cup_inward_tilt_deg": 6.5,
+  "cup_base_cy_mm": -108.0,
+  "cup_rim_cy_approx_mm": -100.08,
+  "cup_inner_diameter_mm": 81.0,
+  "cup_outer_diameter_mm": 90.0,
+  "cup_height_mm": 70.0,
+  "cup_floor_mm": 4.5,
+  "print_floor_plane_trim_applied": true,
+  "nominal_bottle_volume_ml": 500,
+  "loaded_torque_example_Nm_approx": 0.74,
+  "solid_component_count": 1,
+  "valid_step_solid": true,
+  "mesh_watertight": true,
+  "mesh_connected_count": 1,
+  "AD5M_print_extent_xyz_mm": [
+    113.0,
+    90.0,
+    136.02
+  ],
+  "cad_center_intersection_mm3": 0.0,
+  "assembly_slide_positions_checked": 31,
+  "max_slide_collision_mm3": 0.0,
+  "mesh_volume_mm3": 232191.6,
+  "theoretical_PETG_mass_g": 294.9,
+  "warnings": [
+    "Designed for v0.9 center tray only; different printed center may not fit.",
+    "6.5-degree inward inclination is modeled, it is NOT a hinge or a predictable elastic movement under 500ml load.",
+    "No bolt/no positive latch. Friction and saddle geometry still need physical slide-off/load tests.",
+    "500ml filled bottle is a design load case, not a certified or simulated safe rated load.",
+    "PETG layers are anisotropic, so load and repeated jolting can cause failure.",
+    "Use slicer supports only where explicitly needed under U saddle; remove carefully.",
+    "Tripod tip-over stability depends on leg spread and other mounted gear."
+  ]
+}

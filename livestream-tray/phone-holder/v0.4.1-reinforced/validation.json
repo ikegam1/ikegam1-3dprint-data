@@ -1,0 +1,61 @@
+{
+  "reference": "User-supplied ArrowsAlpha_LiveTray_v04_phone_backwall_PETG.zip",
+  "new_holder_file": "ARROWS_ALPHA_HOLDER_v041_REINFORCED_SLOT_71p6mm.stl",
+  "mesh_watertight": true,
+  "connected_components": 1,
+  "body_count_in_STEP": 1,
+  "print_bbox_xyz_mm": [
+    110.0,
+    114.0,
+    71.4
+  ],
+  "fits_adventurer5m_220mm": true,
+  "base_original_xyz_mm": [
+    110,
+    114,
+    6.4
+  ],
+  "base_bottom_difference_volume_mm3": [
+    0.0,
+    0.0
+  ],
+  "groove_width_before_mm": 72.6,
+  "groove_width_after_mm": 71.6,
+  "guide_height_unchanged_mm": 65.0,
+  "side_wall_thickness_before_mm": 6.0,
+  "side_wall_thickness_after_mm": 8.0,
+  "rear_wall_height_before_mm": 34.0,
+  "rear_wall_height_after_mm": 48.0,
+  "back_wall_thickness_before_mm": 3.0,
+  "back_wall_thickness_after_mm": 3.6,
+  "external_support_web_count": 4,
+  "mating_dock": "v0.9 110 x 114 x 6.4 mm sliding receiver nominally unchanged (requires actual physical fit)",
+  "printer_material": "AD5M PETG",
+  "limitations": [
+    "No physical fit/load test performed",
+    "71.6mm inner slot is 1.0mm narrower than original 72.6mm and may be too tight for a cased device",
+    "The backwall may interfere with very thick/low-positioned card holders and must be checked by slow hand insertion",
+    "Snap hooks are PETG and must not be forced",
+    "Phone can still be pulled upward, no positive upward lock"
+  ],
+  "v09_dock_check": {
+    "dock_source": "ArrowsAlpha_LiveTray_v09_printed_phone_holder_compatible.zip",
+    "CAD_collision_intersection_mm3": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "slide_backwards_positions_mm": [
+      0,
+      5,
+      20,
+      50,
+      100,
+      180
+    ],
+    "status": "no collision in CAD, real fit untested"
+  }
+}

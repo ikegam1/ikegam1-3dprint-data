@@ -1,1 +1,0 @@
-Upload permission check, 2026-10-27. Will upload print data into project directories.
