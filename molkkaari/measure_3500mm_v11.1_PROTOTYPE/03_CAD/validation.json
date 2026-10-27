@@ -1,0 +1,283 @@
+{
+  "printer": "Flashforge Adventurer 5M",
+  "material": "PETG only",
+  "accuracy": "nominal, not physically calibrated",
+  "ruler_design_distance_mm": 3500,
+  "section_reference_pitch_mm": 166.66666666666666,
+  "module_count": 4,
+  "pieces_per_module": [
+    6,
+    5,
+    5,
+    5
+  ],
+  "no_separate_joints": true,
+  "rail_width_mm": 11.5,
+  "rail_thickness_mm": 1.4,
+  "female_hinge_outer_width_mm": 11.5,
+  "hinge_axis_top_bottom_z_mm": [
+    6.9,
+    3.3
+  ],
+  "body_cavity_reference_mm": {
+    "outer": [
+      207,
+      13.6,
+      30.6
+    ],
+    "inner": [
+      186,
+      13.6,
+      30.6
+    ]
+  },
+  "CAD_folded_module_checks": {
+    "A_LEFT_6": {
+      "sequence": [
+        "START_TOP",
+        "TOP_BOTTOM",
+        "BOTTOM_TOP",
+        "TOP_BOTTOM",
+        "BOTTOM_TOP",
+        "TOP_QLOW"
+      ],
+      "folded_cad_bbox_mm": [
+        177.467,
+        11.5,
+        26.9
+      ],
+      "cavity_length_mm": 207.0,
+      "nonadjacent_overlap_mm3": [],
+      "adjacent_large_interference": []
+    },
+    "B_MIDDLE_5": {
+      "sequence": [
+        "QLOW_TOP",
+        "TOP_BOTTOM",
+        "BOTTOM_TOP",
+        "TOP_BOTTOM",
+        "BOTTOM_QHIGH"
+      ],
+      "folded_cad_bbox_mm": [
+        177.467,
+        11.5,
+        24.55
+      ],
+      "cavity_length_mm": 186.0,
+      "nonadjacent_overlap_mm3": [],
+      "adjacent_large_interference": []
+    },
+    "C_MIDDLE_5": {
+      "sequence": [
+        "QHIGH_TOP",
+        "TOP_BOTTOM",
+        "BOTTOM_TOP",
+        "TOP_BOTTOM",
+        "BOTTOM_QHIGH"
+      ],
+      "folded_cad_bbox_mm": [
+        177.467,
+        11.5,
+        22.5
+      ],
+      "cavity_length_mm": 186.0,
+      "nonadjacent_overlap_mm3": [],
+      "adjacent_large_interference": []
+    },
+    "D_RIGHT_5": {
+      "sequence": [
+        "QHIGH_TOP",
+        "TOP_BOTTOM",
+        "BOTTOM_TOP",
+        "TOP_BOTTOM",
+        "BOTTOM_END"
+      ],
+      "folded_cad_bbox_mm": [
+        177.467,
+        11.5,
+        19.0
+      ],
+      "cavity_length_mm": 207.0,
+      "nonadjacent_overlap_mm3": [],
+      "adjacent_large_interference": []
+    }
+  },
+  "hinge_angle_interference_mm3": {
+    "TOP": {
+      "0": 0.0,
+      "30": 0.0,
+      "45": 0.0,
+      "60": 0.0,
+      "90": 0.0,
+      "120": 0.0,
+      "135": 0.0,
+      "150": 0.0,
+      "180": 0.0
+    },
+    "BOTTOM": {
+      "0": 0.0,
+      "30": 0.0,
+      "45": 0.0,
+      "60": 0.0,
+      "90": 0.0,
+      "120": 0.0,
+      "135": 0.0,
+      "150": 0.0,
+      "180": 0.0
+    }
+  },
+  "quick_connector_collision_mm3": {
+    "TOP": 0.0,
+    "BOTTOM": 0.0
+  },
+  "printer_check": {
+    "V111_START_TOP_PRINT_1X": {
+      "parts": 1,
+      "xyz_extent_mm": [
+        168.07,
+        5.8,
+        11.5
+      ],
+      "watertight": true,
+      "faces": 896
+    },
+    "V111_TOP_BOTTOM_PRINT_8X": {
+      "parts": 1,
+      "xyz_extent_mm": [
+        173.47,
+        10.2,
+        11.5
+      ],
+      "watertight": true,
+      "faces": 1456
+    },
+    "V111_BOTTOM_TOP_PRINT_5X": {
+      "parts": 1,
+      "xyz_extent_mm": [
+        173.47,
+        10.2,
+        11.5
+      ],
+      "watertight": true,
+      "faces": 1456
+    },
+    "V111_TOP_QLOW_PRINT_1X": {
+      "parts": 1,
+      "xyz_extent_mm": [
+        175.07,
+        9.3,
+        11.5
+      ],
+      "watertight": true,
+      "faces": 1348
+    },
+    "V111_QLOW_TOP_PRINT_1X": {
+      "parts": 1,
+      "xyz_extent_mm": [
+        172.87,
+        7.85,
+        11.5
+      ],
+      "watertight": true,
+      "faces": 1452
+    },
+    "V111_BOTTOM_QHIGH_PRINT_2X": {
+      "parts": 1,
+      "xyz_extent_mm": [
+        175.07,
+        9.3,
+        11.5
+      ],
+      "watertight": true,
+      "faces": 1348
+    },
+    "V111_QHIGH_TOP_PRINT_2X": {
+      "parts": 1,
+      "xyz_extent_mm": [
+        172.87,
+        5.8,
+        11.5
+      ],
+      "watertight": true,
+      "faces": 1452
+    },
+    "V111_BOTTOM_END_PRINT_1X": {
+      "parts": 1,
+      "xyz_extent_mm": [
+        172.07,
+        5.8,
+        11.5
+      ],
+      "watertight": true,
+      "faces": 572
+    },
+    "HINGE_TEST": {
+      "parts": 2,
+      "xyz_extent_mm": [
+        148.4,
+        5.8,
+        11.5
+      ],
+      "watertight": true,
+      "faces": 1468
+    },
+    "HINGE_BOTTOM_TEST": {
+      "parts": 2,
+      "xyz_extent_mm": [
+        148.4,
+        5.8,
+        11.5
+      ],
+      "watertight": true,
+      "faces": 1468
+    },
+    "QUICK_TEST_LOW": {
+      "parts": 2,
+      "xyz_extent_mm": [
+        148.9,
+        4.9,
+        11.5
+      ],
+      "watertight": true,
+      "faces": 1356
+    },
+    "QUICK_TEST_HIGH": {
+      "parts": 2,
+      "xyz_extent_mm": [
+        148.9,
+        4.9,
+        11.5
+      ],
+      "watertight": true,
+      "faces": 1356
+    },
+    "FIT_SAMPLE": {
+      "parts": 1,
+      "xyz_extent_mm": [
+        45.0,
+        11.6,
+        26.0
+      ],
+      "watertight": true,
+      "faces": 12
+    }
+  },
+  "kinds_counts": {
+    "START_TOP": 1,
+    "TOP_BOTTOM": 8,
+    "BOTTOM_TOP": 5,
+    "TOP_QLOW": 1,
+    "QLOW_TOP": 1,
+    "BOTTOM_QHIGH": 2,
+    "QHIGH_TOP": 2,
+    "BOTTOM_END": 1
+  },
+  "not_physically_tested": [
+    "fit and removal",
+    "fatigue after folding",
+    "hand tolerance on quick keyhole",
+    "storage retention when lifted (middle bars have no clips)",
+    "storage fit in particular printed body",
+    "actual measured 3500mm"
+  ]
+}
