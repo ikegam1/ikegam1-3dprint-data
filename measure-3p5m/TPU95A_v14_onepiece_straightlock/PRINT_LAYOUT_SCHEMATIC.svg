@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="1000" viewBox="0 0 250 267">
+<rect width="250" height="267" fill="#fff"/>
+<text x="10" y="12" font-size="7" font-family="sans-serif" fill="#192e3b">Molkky 3.5 m TPU 95A / v14 — schematic print layout</text>
+<rect x="1" y="16" width="220" height="220" fill="#f8fafa" stroke="#607d8b" stroke-width="1.1"/>
+<g transform="translate(0,-1)"><rect x="12" y="15.80" width="194.44" height="8.4" rx="0.7" fill="#8ec2cd" stroke="#377c93" stroke-width="0.35"/>
+<rect x="12" y="27.00" width="194.44" height="8.4" rx="0.7" fill="#8ec2cd" stroke="#377c93" stroke-width="0.35"/>
+<rect x="12" y="38.20" width="194.44" height="8.4" rx="0.7" fill="#8ec2cd" stroke="#377c93" stroke-width="0.35"/>
+<rect x="12" y="49.40" width="194.44" height="8.4" rx="0.7" fill="#8ec2cd" stroke="#377c93" stroke-width="0.35"/>
+<rect x="12" y="60.60" width="194.44" height="8.4" rx="0.7" fill="#8ec2cd" stroke="#377c93" stroke-width="0.35"/>
+<rect x="12" y="71.80" width="194.44" height="8.4" rx="0.7" fill="#8ec2cd" stroke="#377c93" stroke-width="0.35"/>
+<rect x="12" y="83.00" width="194.44" height="8.4" rx="0.7" fill="#8ec2cd" stroke="#377c93" stroke-width="0.35"/>
+<rect x="12" y="94.20" width="194.44" height="8.4" rx="0.7" fill="#8ec2cd" stroke="#377c93" stroke-width="0.35"/>
+<rect x="12" y="105.40" width="194.44" height="8.4" rx="0.7" fill="#8ec2cd" stroke="#377c93" stroke-width="0.35"/>
+<rect x="12" y="116.60" width="194.44" height="8.4" rx="0.7" fill="#8ec2cd" stroke="#377c93" stroke-width="0.35"/>
+<rect x="12" y="127.80" width="194.44" height="8.4" rx="0.7" fill="#8ec2cd" stroke="#377c93" stroke-width="0.35"/>
+<rect x="12" y="139.00" width="194.44" height="8.4" rx="0.7" fill="#8ec2cd" stroke="#377c93" stroke-width="0.35"/>
+<rect x="12" y="150.20" width="194.44" height="8.4" rx="0.7" fill="#8ec2cd" stroke="#377c93" stroke-width="0.35"/>
+<rect x="12" y="161.40" width="194.44" height="8.4" rx="0.7" fill="#8ec2cd" stroke="#377c93" stroke-width="0.35"/>
+<rect x="12" y="172.60" width="194.44" height="8.4" rx="0.7" fill="#8ec2cd" stroke="#377c93" stroke-width="0.35"/>
+<rect x="12" y="183.80" width="194.44" height="8.4" rx="0.7" fill="#8ec2cd" stroke="#377c93" stroke-width="0.35"/>
+<rect x="12" y="195.00" width="194.44" height="8.4" rx="0.7" fill="#8ec2cd" stroke="#377c93" stroke-width="0.35"/>
+<rect x="12" y="206.20" width="194.44" height="8.4" rx="0.7" fill="#8ec2cd" stroke="#377c93" stroke-width="0.35"/><path d="M 206.44 23.5 L 211.89 24.2 Q 213.08999999999997 25.6 211.89 27 L 206.44 27.7" fill="none" stroke="#db9551" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 12 34.7 L 6.55 35.4 Q 5.35 36.8 6.55 38.199999999999996 L 12 38.9" fill="none" stroke="#db9551" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 206.44 45.9 L 211.89 46.6 Q 213.08999999999997 48 211.89 49.39999999999999 L 206.44 50.099999999999994" fill="none" stroke="#db9551" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 12 57.099999999999994 L 6.55 57.8 Q 5.35 59.199999999999996 6.55 60.599999999999994 L 12 61.3" fill="none" stroke="#db9551" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 206.44 68.3 L 211.89 69 Q 213.08999999999997 70.4 211.89 71.8 L 206.44 72.5" fill="none" stroke="#db9551" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 12 79.5 L 6.55 80.2 Q 5.35 81.6 6.55 83 L 12 83.7" fill="none" stroke="#db9551" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 206.44 90.69999999999999 L 211.89 91.39999999999999 Q 213.08999999999997 92.79999999999998 211.89 94.19999999999999 L 206.44 94.89999999999999" fill="none" stroke="#db9551" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 12 101.89999999999999 L 6.55 102.6 Q 5.35 104 6.55 105.39999999999999 L 12 106.1" fill="none" stroke="#db9551" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 206.44 113.1 L 211.89 113.8 Q 213.08999999999997 115.19999999999999 211.89 116.6 L 206.44 117.3" fill="none" stroke="#db9551" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 12 124.3 L 6.55 125 Q 5.35 126.4 6.55 127.8 L 12 128.5" fill="none" stroke="#db9551" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 206.44 135.5 L 211.89 136.2 Q 213.08999999999997 137.6 211.89 139 L 206.44 139.7" fill="none" stroke="#db9551" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 12 146.7 L 6.55 147.39999999999998 Q 5.35 148.79999999999998 6.55 150.2 L 12 150.89999999999998" fill="none" stroke="#db9551" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 206.44 157.89999999999998 L 211.89 158.59999999999997 Q 213.08999999999997 159.99999999999997 211.89 161.39999999999998 L 206.44 162.09999999999997" fill="none" stroke="#db9551" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 12 169.1 L 6.55 169.79999999999998 Q 5.35 171.2 6.55 172.6 L 12 173.29999999999998" fill="none" stroke="#db9551" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 206.44 180.29999999999998 L 211.89 180.99999999999997 Q 213.08999999999997 182.39999999999998 211.89 183.79999999999998 L 206.44 184.49999999999997" fill="none" stroke="#db9551" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 12 191.5 L 6.55 192.2 Q 5.35 193.6 6.55 195 L 12 195.7" fill="none" stroke="#db9551" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 206.44 202.7 L 211.89 203.39999999999998 Q 213.08999999999997 204.79999999999998 211.89 206.2 L 206.44 206.89999999999998" fill="none" stroke="#db9551" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="10" y="245" font-size="5" font-family="sans-serif" fill="#182c3d">18 rails / 17 continuous loops / 3500mm nominal when snapped straight</text>
+<text x="10" y="253" font-size="4.3" font-family="sans-serif" fill="#182c3d">Schematic only: consult STEP/STL for precise snap geometry and thickness.</text>
+<text x="10" y="261" font-size="4.3" font-family="sans-serif" fill="#9e4a1a">Physical latch / storage / calibration still require real-world tests.</text>
+</svg>
