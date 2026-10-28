@@ -37,3 +37,5 @@
 **These designs are prototypes.** Mölkkaari joint strength and the measuring rule's straightness, 3,500 mm accuracy and storage need to be checked on real prints.
 
 Created from prior ChatGPT design artifacts and uploaded to GitHub on 2026-10-27.
+
+- [**3.5m測定具 v14：18節一体型・直線位置ロック（設計・印刷設定）**](measure-3p5m/TPU95A_v14_onepiece_straightlock/README.md) — TPU95A／0.8mmノズル。フルサイズのCADデータは作成済みですが、嵌合・3.5m精度・収納は実機未検証。
