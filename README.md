@@ -41,3 +41,5 @@ Created from prior ChatGPT design artifacts and uploaded to GitHub on 2026-10-27
 - [**3.5m測定具 v14：18節一体型・直線位置ロック（設計・印刷設定）**](measure-3p5m/TPU95A_v14_onepiece_straightlock/README.md) — TPU95A／0.8mmノズル。フルサイズのCADデータは作成済みですが、嵌合・3.5m精度・収納は実機未検証。
 
 - [**3.5m測定具 v15：真の鎖式連結（試験モデル）**](measure-3p5m/TPU95A_v15_free_chain/REQUIREMENTS.md) — 閉環が立体的に絡む方式。2節・3節のCAD試験完了、**3.5m完成版と実機印刷は未完了**。v14の直線ロック方式は採用見送り。
+
+- [**測定具 v15.1：鎖ジョイントのサポート除去改善（2リンク試験）**](measure-3p5m/TPU95A_v15_easy_release_test/README.md) — 自動サポートOFF・外付けの切除柱式。実機での成功は未確認。
