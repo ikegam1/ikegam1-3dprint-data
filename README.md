@@ -43,3 +43,5 @@ Created from prior ChatGPT design artifacts and uploaded to GitHub on 2026-10-27
 - [**3.5m測定具 v15：真の鎖式連結（試験モデル）**](measure-3p5m/TPU95A_v15_free_chain/REQUIREMENTS.md) — 閉環が立体的に絡む方式。2節・3節のCAD試験完了、**3.5m完成版と実機印刷は未完了**。v14の直線ロック方式は採用見送り。
 
 - [**測定具 v15.1：鎖ジョイントのサポート除去改善（2リンク試験）**](measure-3p5m/TPU95A_v15_easy_release_test/README.md) — 自動サポートOFF・外付けの切除柱式。実機での成功は未確認。
+
+- [**測定具 v16：鎖式26節・根元リング／先端錨（CAD候補と印刷設定）**](measure-3p5m/TPU95A_v16_chain_ring_anchor/README.md) — STL生成済み、3.5m校正・収納・可動性は未検証。2節試験から。
