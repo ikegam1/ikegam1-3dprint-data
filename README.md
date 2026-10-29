@@ -45,3 +45,5 @@ Created from prior ChatGPT design artifacts and uploaded to GitHub on 2026-10-27
 - [**測定具 v15.1：鎖ジョイントのサポート除去改善（2リンク試験）**](measure-3p5m/TPU95A_v15_easy_release_test/README.md) — 自動サポートOFF・外付けの切除柱式。実機での成功は未確認。
 
 - [**測定具 v16：鎖式26節・根元リング／先端錨（CAD候補と印刷設定）**](measure-3p5m/TPU95A_v16_chain_ring_anchor/README.md) — STL生成済み、3.5m校正・収納・可動性は未検証。2節試験から。
+
+- [**測定具 v17：PETG／0.8mm・根元の四角リング（内寸24×39mm）＋鎖式**](measure-3p5m/PETG_v17_square_root_chain/README.md) — 試験用STL・26節CADモデル作成。3.5m実測とサポート除去は未検証。
