@@ -49,3 +49,5 @@ Created from prior ChatGPT design artifacts and uploaded to GitHub on 2026-10-27
 - [**測定具 v17：PETG／0.8mm・根元の四角リング（内寸24×39mm）＋鎖式**](measure-3p5m/PETG_v17_square_root_chain/README.md) — 試験用STL・26節CADモデル作成。3.5m実測とサポート除去は未検証。
 
 - [**測定具 v18：PETG・0.4mm／八角形の鎖ジョイント試験**](measure-3p5m/PETG_v18_faceted_chain_test/README.md) — 2節のSTLを作成。支柱の除去・可動性は実機未検証。
+
+- [**測定具 v19：PETG・0.4mm／成功した八角形ジョイントで26節の本体**](measure-3p5m/PETG_v19_faceted_full/README.md) — 根元24×39mm角リング＋錨。STL生成・形状検証済み、実際の3.5m長さは未校正。
