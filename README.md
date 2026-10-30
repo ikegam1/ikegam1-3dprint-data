@@ -53,3 +53,5 @@ Created from prior ChatGPT design artifacts and uploaded to GitHub on 2026-10-27
 - [**測定具 v19：PETG・0.4mm／成功した八角形ジョイントで26節の本体**](measure-3p5m/PETG_v19_faceted_full/README.md) — 根元24×39mm角リング＋錨。STL生成・形状検証済み、実際の3.5m長さは未校正。
 
 - [**測定具 v20：PETG・0.4mm／首折れ対策の幅広補強（実寸2節から試験）**](measure-3p5m/PETG_v20_reinforced_necks/README.md) — v19の破断写真を受けて再設計。2節・3節試験STLと26節候補を作成。**耐久性は実機未確認。**
+
+- [**測定具 v21：PETG・0.4mm／さらに太いジョイント＋中央へ向かって薄くなる板**](measure-3p5m/PETG_v21_reinforced_graded_flex/README.md) — 端2.8mm／中央1.5mm、実寸2節試験から。26節の強度と3.5m精度は未検証。
