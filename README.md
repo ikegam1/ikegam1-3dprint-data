@@ -55,3 +55,5 @@ Created from prior ChatGPT design artifacts and uploaded to GitHub on 2026-10-27
 - [**測定具 v20：PETG・0.4mm／首折れ対策の幅広補強（実寸2節から試験）**](measure-3p5m/PETG_v20_reinforced_necks/README.md) — v19の破断写真を受けて再設計。2節・3節試験STLと26節候補を作成。**耐久性は実機未確認。**
 
 - [**測定具 v21：PETG・0.4mm／さらに太いジョイント＋中央へ向かって薄くなる板**](measure-3p5m/PETG_v21_reinforced_graded_flex/README.md) — 端2.8mm／中央1.5mm、実寸2節試験から。26節の強度と3.5m精度は未検証。
+
+- [**測定具 v22：三角穴を板端に一体化した鎖式連結（CAD検討用・印刷非推奨）**](measure-3p5m/PETG_v22_integrated_triangle_eyes_CONCEPT/README.md) — 45°／90°の2枚の立体連結を確認。強度・サポート・3.5m配置は未検証。
