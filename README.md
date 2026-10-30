@@ -8,14 +8,14 @@
 |---|---|---|
 | Live stream tray | [livestream-tray/center-and-side-trays/v0.9/](livestream-tray/center-and-side-trays/v0.9/) | Prototype: PETG fit and load unverified |
 | arrows alpha phone holder | [livestream-tray/phone-holder/v0.4.1-reinforced/](livestream-tray/phone-holder/v0.4.1-reinforced/) | Reinforced prototype, 71.6 mm slot; confirm actual fit |
-| Drink holder | [livestream-tray/drink-holder/v1.1-inward-tilt/](livestream-tray/drink-holder/v1.1-inward-tilt/) | Prototype, inward 6.5° tilt, 500 mL bottle intended, **load test not yet passed** |
+| Drink holder | [livestream-tray/drink-holder/v1.3-backshift-half-under-table/](livestream-tray/drink-holder/v1.3-backshift-half-under-table/) | **Newest v1.3:** cup shifted approximately half under the table; 500 mL bottle CAD clearance checked. PETG load-bearing and stability **not physically validated** |
 | Indoor Kubb | [kubb/70x70x150-closed-light/](kubb/70x70x150-closed-light/) | Closed 70×70×150 mm model with low slicer infill |
 | PETG slippers | [footwear/petg-slippers-27cm/](footwear/petg-slippers-27cm/) | Early prototype, requires compatible hardware; PETG can be hard and slippery |
 | Mölkky trophy (おおみそCUP) | [molkky_trophy/](molkky_trophy/) | Print data for 4 trophies (2026-10-27) plus a 1/3-scale fit test; not yet test-printed |
 | Mölkkaari | [molkkaari/](molkkaari/) | Body, 3.5 m measuring rule prototypes, angle covers for wooden frames, legacy center extension adapters; STL, design sources, assembly images and instructions. Prototypes |
 | 3.5 m measuring rule (new joint system) | [measure-3p5m/](measure-3p5m/) | Prototype record (v13 etc.); **under physical testing, not a finished design** |
 
-**Former designs:** [archive/older-unverified-revisions/](archive/older-unverified-revisions/) — retained for comparison only; several are superseded due to fit, stability, or strength problems.
+**Previous drink holder versions:** [v1.1-inward-tilt](livestream-tray/drink-holder/v1.1-inward-tilt/); retained for reference, v1.3 is current.\n\n**Former designs:** [archive/older-unverified-revisions/](archive/older-unverified-revisions/) — retained for comparison only; several are superseded due to fit, stability, or strength problems.
 
 ## Important printing notes
 

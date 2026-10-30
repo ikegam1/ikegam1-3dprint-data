@@ -1,0 +1,63 @@
+{
+  "assembly_cad": "center v0.9 slab 136x162x6mm; phone front stop at y=-54,z15..21.5",
+  "saddle_connection_same_as_v12": true,
+  "cup_height_unchanged_mm": 76,
+  "cup_base_z_mm": -171.0,
+  "cup_inner_diameter_mm": 83.0,
+  "cup_outer_diameter_mm": 93.0,
+  "tilt_direction": "outward (toward front), needed for bottle/tray clearance while moving basket underneath",
+  "tilt_deg": 15.0,
+  "cup_bottom_center_y_mm": -76.0,
+  "cup_rim_center_y_mm": -95.7,
+  "ring_percent_under_center_table": [
+    {
+      "local_z_mm": 0,
+      "ring_center_y_mm": -76.0,
+      "fraction_ring_circumference_below_table_percent": 53.4
+    },
+    {
+      "local_z_mm": 19,
+      "ring_center_y_mm": -80.918,
+      "fraction_ring_circumference_below_table_percent": 50.1
+    },
+    {
+      "local_z_mm": 38,
+      "ring_center_y_mm": -85.835,
+      "fraction_ring_circumference_below_table_percent": 46.7
+    },
+    {
+      "local_z_mm": 57,
+      "ring_center_y_mm": -90.753,
+      "fraction_ring_circumference_below_table_percent": 43.3
+    },
+    {
+      "local_z_mm": 76,
+      "ring_center_y_mm": -95.67,
+      "fraction_ring_circumference_below_table_percent": 39.8
+    }
+  ],
+  "est_bottle_cg_y_old_v12_mm": -133.5,
+  "est_bottle_cg_y_new_v13_mm": -104.5,
+  "bottle_cg_shift_inward_mm": 29.1,
+  "bottle_model_diameter_mm": 80,
+  "bottle_model_height_mm": 220,
+  "bottle_insertion_step_mm": 5,
+  "bottle_lift_test_max_mm": 220,
+  "bottle_max_tray_intersection_mm3": 0.0,
+  "bottle_max_holder_intersection_mm3": 0.0,
+  "saddle_fit_tray_max_intersection_mm3": 0.0,
+  "stl_single_component": true,
+  "stl_watertight": true,
+  "print_bbox_xyz_mm": [
+    113.0,
+    112.4,
+    189.6
+  ],
+  "theoretical_PETG_mass_g": 299.3,
+  "cautions": [
+    "Actual PETG 500g load strength, shaking and tripod tipping not certified",
+    "When cup is partly under table, at max realistic bottle diameter, angled 15deg OUTWARD rather than inward is necessary to preserve straight insertion. This is a geometry compromise.",
+    "Saddle has no positive slip-out latch",
+    "Physical PETG print-fit and removal of support untested."
+  ]
+}
