@@ -63,3 +63,5 @@ Created from prior ChatGPT design artifacts and uploaded to GitHub on 2026-10-27
 - [**測定具 v22.2：薄い平板に直接三角穴・穴の周囲のみ補強（CAD検討版）**](measure-3p5m/PETG_v22_2_flat_plate_triangle_holes/README.md) — 90°はベッド上の板同士の配置角。2枚の立体連結はCAD確認済み、サポート未設計のため印刷非推奨。
 
 - [**測定具 v22.3：薄板の三角穴＋内蔵サポート20か所（PETG／0.4mm・2枚試験）**](measure-3p5m/PETG_v22_3_flat_triangle_supports_built_in/README.md) — スライサーのサポートOFFでテストできる構成。支柱除去は実機未検証。
+
+- [**3.5m測定具 v23：PETG・0.4mm、3束×9枚の収納候補**](measure-3p5m/PETG_v23_three_storage_bundles/README.md) — 三角穴の直接連結、板幅8.8mm、根元四角リングと先端錨、着脱Jフック。**3束のSTL生成済み・実機収納と3.5m精度は未確認。**
