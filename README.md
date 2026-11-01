@@ -75,3 +75,5 @@ Created from prior ChatGPT design artifacts and uploaded to GitHub on 2026-10-27
 - [v23の設計不合格の詳細](measure-3p5m/PETG_v23_three_storage_bundles/README.md)
 
 - [**3.5m測定具 v25：板への直接三角貫通穴＋束間の一体型S字フック（着脱試験）**](measure-3p5m/PETG_v25_integrated_S_bundle_connectors/README.md) — PETG・0.4mm、支柱ゼロ。**束内部の連結済みサポートレス版や3.5m本体は未完成**。
+
+- [**3.5m測定具 v26：束間接続をS字フック同士に変更（PETG・0.4mm／強化試験）**](measure-3p5m/PETG_v26_S_to_S_reinforced/README.md) — 板端と一体の肉厚S字端部を2本セットで作成。サポート不要。**着脱・強度・収納は実機未検証で、3束本体への統合前**。
