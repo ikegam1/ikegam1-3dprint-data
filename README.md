@@ -73,3 +73,5 @@ Created from prior ChatGPT design artifacts and uploaded to GitHub on 2026-10-27
 
 - [**次版へ進む前の必須検証条件：サポートゼロ・3,500mm・2〜3束収納**](measure-3p5m/PRINTABILITY_AND_STORAGE_GATES_V24.md)
 - [v23の設計不合格の詳細](measure-3p5m/PETG_v23_three_storage_bundles/README.md)
+
+- [**3.5m測定具 v25：板への直接三角貫通穴＋束間の一体型S字フック（着脱試験）**](measure-3p5m/PETG_v25_integrated_S_bundle_connectors/README.md) — PETG・0.4mm、支柱ゼロ。**束内部の連結済みサポートレス版や3.5m本体は未完成**。
