@@ -65,3 +65,11 @@ Created from prior ChatGPT design artifacts and uploaded to GitHub on 2026-10-27
 - [**測定具 v22.3：薄板の三角穴＋内蔵サポート20か所（PETG／0.4mm・2枚試験）**](measure-3p5m/PETG_v22_3_flat_triangle_supports_built_in/README.md) — スライサーのサポートOFFでテストできる構成。支柱除去は実機未検証。
 
 - [**3.5m測定具 v23：PETG・0.4mm、3束×9枚の収納候補**](measure-3p5m/PETG_v23_three_storage_bundles/README.md) — 三角穴の直接連結、板幅8.8mm、根元四角リングと先端錨、着脱Jフック。**3束のSTL生成済み・実機収納と3.5m精度は未確認。**
+
+
+## 注意：3.5m測定具の印刷可否（2026-11-02）
+
+**v23は印刷非推奨です。** 設計に切除式支柱168本が含まれており、サポートを取り除く必要がない目標に反します。また3,500mmは実測の長さではなく平面CAD経路の合計で、収納実寸も未検証です。
+
+- [**次版へ進む前の必須検証条件：サポートゼロ・3,500mm・2〜3束収納**](measure-3p5m/PRINTABILITY_AND_STORAGE_GATES_V24.md)
+- [v23の設計不合格の詳細](measure-3p5m/PETG_v23_three_storage_bundles/README.md)
