@@ -79,3 +79,5 @@ Created from prior ChatGPT design artifacts and uploaded to GitHub on 2026-10-27
 - [**3.5m測定具 v26：束間接続をS字フック同士に変更（PETG・0.4mm／強化試験）**](measure-3p5m/PETG_v26_S_to_S_reinforced/README.md) — 板端と一体の肉厚S字端部を2本セットで作成。サポート不要。**着脱・強度・収納は実機未検証で、3束本体への統合前**。
 
 - [**測定具 v27：PETG・0.4mm／細い根元を廃止した強化S字フック同士の連結試験**](measure-3p5m/PETG_v27_no_neck_strong_S_to_S/README.md) — 付け根断面を拡大、フック幅6.4mm・厚さ4.0mm。実機の着脱・強度・収納は未検証。
+
+- [**測定具 v28：S字下側をカットしたCフック同士の束間連結試験（PETG／0.4mm）**](measure-3p5m/PETG_v28_trimmed_C_to_C_bundle_hooks/README.md) — v27の太い根元を維持、2個セットSTLあり。着脱・保持力は実機未検証。
