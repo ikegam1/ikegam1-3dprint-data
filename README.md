@@ -83,3 +83,5 @@ Created from prior ChatGPT design artifacts and uploaded to GitHub on 2026-10-27
 - [**測定具 v28：S字下側をカットしたCフック同士の束間連結試験（PETG／0.4mm）**](measure-3p5m/PETG_v28_trimmed_C_to_C_bundle_hooks/README.md) — v27の太い根元を維持、2個セットSTLあり。着脱・保持力は実機未検証。
 
 - [**v30：小型C字フック＋平板に直接開けた三角穴の修正試験**](measure-3p5m/PETG_v30_compact_hook_direct_hole_TEST/README.md) — フック外幅約11.1mm、穴端最大10.4mm。**v29は強度要件不適合で本体印刷禁止。v30は短い部位試験のみ。**
+
+- [**計測器 v32.2：板端の穴を維持し、印刷時の接地不良・根元リング開口ミスを修正**](measure-3p5m/PETG_v32_2_printability_fixed/README.md) — PETG・0.4mm、3束本体CAD・支柱付き2枚試験・収納幅ゲージを作成。**収納と3.5m実測は未検証**。
