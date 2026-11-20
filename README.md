@@ -12,6 +12,7 @@
 | Indoor Kubb | [kubb/70x70x150-closed-light/](kubb/70x70x150-closed-light/) | Closed 70×70×150 mm model with low slicer infill |
 | PETG slippers | [footwear/petg-slippers-27cm/](footwear/petg-slippers-27cm/) | Early prototype, requires compatible hardware; PETG can be hard and slippery |
 | Mölkky trophy (おおみそCUP) | [molkky_trophy/](molkky_trophy/) | Print data for 4 trophies (2026-10-27) plus a 1/3-scale fit test; not yet test-printed |
+| 鉄モル trophy (Grand Championship 2026) | [tetsumo_trophy/](tetsumo_trophy/) | Winner trophy at 1.2× (2026-11-20): the おおみそCUP hand base with new text, plus a two-part hex dumbbell and fit test pieces; not yet test-printed |
 | Mölkkaari | [molkkaari/](molkkaari/) | Body, 3.5 m measuring rule prototypes, angle covers for wooden frames, legacy center extension adapters; STL, design sources, assembly images and instructions. Prototypes |
 | 3.5 m measuring rule (new joint system) | [measure-3p5m/](measure-3p5m/) | Prototype record (v13 etc.); **under physical testing, not a finished design** |
 
